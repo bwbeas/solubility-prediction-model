@@ -1,4 +1,8 @@
 # Solubility Prediction Using Machine Learning
+## 🧪before anything🧪: here are the dataset you may need:
+for more datasets to practice: [https://github.com/dataprofessor/data](https://github.com/dataprofessor/data)
+for the one i used: [https://github.com/dataprofessor/data/blob/master/delaney_solubility_with_descriptors.csv](https://github.com/dataprofessor/data/blob/master/delaney_solubility_with_descriptors.csv)
+for the raw data set to use: [https://raw.githubusercontent.com/dataprofessor/data/refs/heads/master/delaney_solubility_with_descriptors.csv](https://raw.githubusercontent.com/dataprofessor/data/refs/heads/master/delaney_solubility_with_descriptors.csv)
 
 ## Overview
 
